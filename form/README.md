@@ -1,6 +1,7 @@
 # Forms
 ## Resources
-- Read or watch:
+
+- ## Read or watch:
 
 - [An Extensive Guide To Web Form Usability — Smashing Magazine](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)**
 - [Forms - UX Movement](https://uxmovement.com/category/forms/)
@@ -8,7 +9,7 @@
 - [The Anatomy of Accessible Forms: Best Practices | Deque](https://www.deque.com/blog/anatomy-of-accessible-forms-best-practices/)
 - [Pure CSS Custom Error Messaging for Default Form Elements – Sarah Holley Design](https://sarahholleydesign.com/pure-css-custom-error-messaging-for-default-form-elements/)
 
-- MDN resources:
+- ## MDN resources:
 
 - [HTML forms - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [form - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
